@@ -1,4 +1,6 @@
-package in.pwskill.utility;
+package in.pwskill.main;
+
+import in.pwskill.utility.JdbcUtil;
 
 import java.sql.Connection;
 import java.sql.ResultSet;
